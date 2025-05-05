@@ -28,5 +28,8 @@ Different perspectives include:
 * **Humanism:**  Focusing on human values and reason, emphasizing ethics, compassion, and the importance of human relationships.
 Ultimately, the meaning of life is what you make it.  It's a question of personal values, beliefs, and experiences.  What brings you fulfillment, joy, and a sense of purpose?  That's likely a significant part of your own answer.
 
+![image](https://github.com/user-attachments/assets/028b0a2e-1b50-47bb-a7ee-ce6e0be70d95)
+
+
 ## Result:
 The provided code uses Google's Generative AI SDK to interact with the Gemini 1.5 Flash model, allowing you to send a prompt and receive a natural language response. By following a simple sequence—configure, initialize, prompt, and print—you can easily generate AI-powered content.
